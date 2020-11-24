@@ -1,7 +1,11 @@
 github.com/4thel00z/gojsonpointer v0.0.0-20201123235128-47b4cc2e8406 h1:qDFMlfGiSDYI6z1k12Oh6GymhUmQhIZ40wTvVTcu+j0=
 github.com/4thel00z/gojsonpointer v0.0.0-20201123235128-47b4cc2e8406/go.mod h1:+BCqvwOnCoTkujV+xWQCjfZDTKqoLpf43bibupnDs8A=
+github.com/4thel00z/gojsonpointer v0.1.0 h1:Kp3Of1p2YSmdzhVKnlYZkz9gEZOD1SUSG+/47Dv7x3E=
+github.com/4thel00z/gojsonpointer v0.1.0/go.mod h1:+BCqvwOnCoTkujV+xWQCjfZDTKqoLpf43bibupnDs8A=
 github.com/4thel00z/gojsonreference v0.0.0-20201123235912-613657f8c325 h1:P6MD1Nx4Ju38PayLi3F4p6H+J1VT01XtqT3Y5FVlzrI=
 github.com/4thel00z/gojsonreference v0.0.0-20201123235912-613657f8c325/go.mod h1:tsLZS13+1e/0CFALiC8db3Y6fXHFT6+fjIvkIPcY+7c=
+github.com/4thel00z/gojsonreference v0.1.0 h1:ygZHq1RzQ8nZtkL5uZvu9XY01kcoP0PnDmSUZY2Aix4=
+github.com/4thel00z/gojsonreference v0.1.0/go.mod h1:8axyLcBF3eHWNP17g5M0WJny9AaXZojiZBLWs/yucVQ=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
