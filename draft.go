@@ -19,7 +19,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/xeipuuv/gojsonreference"
+	"github.com/4thel00z/gojsonreference"
 )
 
 // Draft is a JSON-schema draft version

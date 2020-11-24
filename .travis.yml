@@ -4,6 +4,6 @@ go:
   - "1.12"
   - "1.13"
 before_install:
-  - go get github.com/xeipuuv/gojsonreference
-  - go get github.com/xeipuuv/gojsonpointer
+  - go get github.com/4thel00z/gojsonreference
+  - go get github.com/4thel00z/gojsonpointer
   - go get github.com/stretchr/testify/assert
