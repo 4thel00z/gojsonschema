@@ -1,5 +1,5 @@
 [![GoDoc](https://godoc.org/github.com/4thel00z/gojsonschema?status.svg)](https://godoc.org/github.com/4thel00z/gojsonschema)
-[![Build Status](https://travis-ci.org/xeipuuv/gojsonschema.svg)](https://travis-ci.org/xeipuuv/gojsonschema)
+[![Build Status](https://travis-ci.org/4thel00z/gojsonschema.svg)](https://travis-ci.org/4thel00z/gojsonschema)
 [![Go Report Card](https://goreportcard.com/badge/github.com/4thel00z/gojsonschema)](https://goreportcard.com/report/github.com/4thel00z/gojsonschema)
 
 # gojsonschema

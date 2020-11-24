@@ -1,4 +1,4 @@
-// Copyright 2015 xeipuuv ( https://github.com/xeipuuv )
+// Copyright 2015 4thel00z ( https://github.com/4thel00z )
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
 
 // author           janmentzel
 // author-github    https://github.com/janmentzel
-// author-mail      ? ( forward to xeipuuv@gmail.com )
+// author-mail      ? ( forward to 4thel00z@gmail.com )
 //
 // repository-name  gojsonschema
 // repository-desc  An implementation of JSON Schema, based on IETF's draft v4 - Go language.
