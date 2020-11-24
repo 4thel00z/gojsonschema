@@ -1,7 +1,9 @@
-module github.com/xeipuuv/gojsonschema
+module github.com/4thel00z/gojsonschema
+
+go 1.15
 
 require (
-	github.com/stretchr/testify v1.3.0
-	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
-	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415
+	github.com/4thel00z/gojsonpointer v0.0.0-20201123235128-47b4cc2e8406 // indirect
+	github.com/4thel00z/gojsonreference v0.0.0-20201123235912-613657f8c325
+	github.com/stretchr/testify v1.6.1
 )
